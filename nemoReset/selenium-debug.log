@@ -1,0 +1,348 @@
+16:17:49.507 INFO - Launching a standalone Selenium Server
+Setting system property webdriver.chrome.driver to D:\computer\Node JS\Projects\Selectors-Test\node_modules\chromedriver\lib\chromedriver\chromedriver.exe
+16:17:49.780 INFO - Java: Oracle Corporation 25.241-b07
+16:17:49.780 INFO - OS: Windows 7 6.1 amd64
+16:17:49.803 INFO - v2.53.1, with Core v2.53.1. Built from revision a36b8b1
+16:17:49.943 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+16:17:49.943 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+16:17:49.965 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform VISTA
+16:17:49.967 INFO - Driver class not found: org.openqa.selenium.htmlunit.HtmlUnitDriver
+16:17:49.968 INFO - Driver provider org.openqa.selenium.htmlunit.HtmlUnitDriver is not registered
+16:17:50.325 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:5554/wd/hub
+16:17:50.326 INFO - Selenium Server is up and running
+16:17:51.814 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[start-maximized]}, platform=ANY}]])
+16:17:51.836 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[start-maximized]}, platform=ANY}]
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 36043
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1588243675.511][WARNING]: This version of ChromeDriver has not been tested with Chrome version 81.
+16:18:00.382 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[start-maximized]}, platform=ANY}]]
+16:18:00.462 INFO - Executing: [get: https://release.cambridgeone.org/])
+[1588243683.286][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243683.388][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243683.490][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243683.593][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243683.698][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243683.802][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243683.906][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243684.009][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243684.112][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243684.215][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243684.318][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243684.419][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243684.522][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243684.626][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243684.728][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243684.830][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243684.932][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243685.134][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243685.235][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243685.337][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243685.438][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243685.541][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243685.642][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243686.077][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243686.331][SEVERE]: Timed out receiving message from renderer: 0.100
+16:18:07.805 INFO - Done: [get: https://release.cambridgeone.org/]
+16:18:10.842 INFO - Executing: [find elements: By.cssSelector: #onboarding-header-login-btn])
+16:18:11.805 INFO - Done: [find elements: By.cssSelector: #onboarding-header-login-btn]
+16:18:11.817 INFO - Executing: [find element: By.cssSelector: #onboarding-header-login-btn])
+16:18:11.848 INFO - Done: [find element: By.cssSelector: #onboarding-header-login-btn]
+16:18:11.855 INFO - Executing: [click: 0 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #onboarding-header-login-btn]])
+16:18:12.053 INFO - Done: [click: 0 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #onboarding-header-login-btn]]
+16:18:12.077 INFO - Executing: [find elements: By.cssSelector: #gigya-login-form input[name="username"]])
+16:18:12.119 INFO - Done: [find elements: By.cssSelector: #gigya-login-form input[name="username"]]
+16:18:12.631 INFO - Executing: [find elements: By.cssSelector: #gigya-login-form input[name="username"]])
+16:18:12.667 INFO - Done: [find elements: By.cssSelector: #gigya-login-form input[name="username"]]
+16:18:13.183 INFO - Executing: [find elements: By.cssSelector: #gigya-login-form input[name="username"]])
+16:18:13.217 INFO - Done: [find elements: By.cssSelector: #gigya-login-form input[name="username"]]
+16:18:13.724 INFO - Executing: [find elements: By.cssSelector: #gigya-login-form input[name="username"]])
+16:18:13.740 INFO - Done: [find elements: By.cssSelector: #gigya-login-form input[name="username"]]
+16:18:14.246 INFO - Executing: [find elements: By.cssSelector: #gigya-login-form input[name="username"]])
+16:18:14.300 INFO - Done: [find elements: By.cssSelector: #gigya-login-form input[name="username"]]
+16:18:14.309 INFO - Executing: [is displayed: 1 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="username"]]])
+16:18:14.352 INFO - Done: [is displayed: 1 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="username"]]]
+16:18:14.359 INFO - Executing: [find element: By.cssSelector: #gigya-login-form input[name="username"]])
+16:18:14.386 INFO - Done: [find element: By.cssSelector: #gigya-login-form input[name="username"]]
+16:18:14.394 INFO - Executing: [send keys: 1 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="username"]], [s, e, l, e, c, t, o, r, ., s, t, u, d, e, n, t, @, y, o, p, m, a, i, l, ., c, o, m]])
+16:18:14.734 INFO - Done: [send keys: 1 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="username"]], [s, e, l, e, c, t, o, r, ., s, t, u, d, e, n, t, @, y, o, p, m, a, i, l, ., c, o, m]]
+16:18:14.742 INFO - Executing: [find element: By.cssSelector: #gigya-login-form input[name="password"]])
+16:18:14.770 INFO - Done: [find element: By.cssSelector: #gigya-login-form input[name="password"]]
+16:18:14.776 INFO - Executing: [send keys: 2 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="password"]], [C, o, m, p, r, o, 1, 1]])
+16:18:14.943 INFO - Done: [send keys: 2 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="password"]], [C, o, m, p, r, o, 1, 1]]
+16:18:14.948 INFO - Executing: [find element: By.cssSelector: #gigya-login-form input[type="submit"]])
+16:18:14.977 INFO - Done: [find element: By.cssSelector: #gigya-login-form input[type="submit"]]
+16:18:14.983 INFO - Executing: [click: 3 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[type="submit"]]])
+16:18:15.369 INFO - Done: [click: 3 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[type="submit"]]]
+16:18:15.377 INFO - Executing: [find elements: By.cssSelector: .image-group .product-image])
+16:18:15.415 INFO - Done: [find elements: By.cssSelector: .image-group .product-image]
+16:18:15.924 INFO - Executing: [find elements: By.cssSelector: .image-group .product-image])
+16:18:15.948 INFO - Done: [find elements: By.cssSelector: .image-group .product-image]
+16:18:16.464 INFO - Executing: [find elements: By.cssSelector: .image-group .product-image])
+16:18:16.510 INFO - Done: [find elements: By.cssSelector: .image-group .product-image]
+16:18:17.026 INFO - Executing: [find elements: By.cssSelector: .image-group .product-image])
+16:18:17.098 INFO - Done: [find elements: By.cssSelector: .image-group .product-image]
+16:18:17.617 INFO - Executing: [find elements: By.cssSelector: .image-group .product-image])
+16:18:17.754 INFO - Done: [find elements: By.cssSelector: .image-group .product-image]
+16:18:18.266 INFO - Executing: [find elements: By.cssSelector: .image-group .product-image])
+16:18:18.306 INFO - Done: [find elements: By.cssSelector: .image-group .product-image]
+16:18:18.819 INFO - Executing: [find elements: By.cssSelector: .image-group .product-image])
+[1588243699.883][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243699.985][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243700.087][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243700.189][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243700.330][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243700.432][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243700.533][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243700.713][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243700.815][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243700.916][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243701.018][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243701.449][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243701.598][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243702.041][SEVERE]: Timed out receiving message from renderer: 0.100
+16:18:24.982 INFO - Done: [find elements: By.cssSelector: .image-group .product-image]
+16:18:24.992 INFO - Executing: [is displayed: 4 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .image-group .product-image]])
+16:18:25.377 INFO - Done: [is displayed: 4 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .image-group .product-image]]
+16:18:26.392 INFO - Executing: [find element: By.cssSelector: .image-group .product-image])
+16:18:26.437 INFO - Done: [find element: By.cssSelector: .image-group .product-image]
+16:18:26.442 INFO - Executing: [click: 4 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .image-group .product-image]])
+[1588243707.511][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243707.663][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243707.768][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243707.871][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243707.975][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243708.077][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243708.178][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243708.280][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243708.381][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243708.483][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243708.584][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243708.686][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243708.789][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243708.898][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243709.102][SEVERE]: Timed out receiving message from renderer: 0.100
+16:18:34.197 INFO - Done: [click: 4 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .image-group .product-image]]
+16:18:34.208 INFO - Executing: [find elements: By.cssSelector: section.user-info > div > p > strong])
+16:18:34.328 INFO - Done: [find elements: By.cssSelector: section.user-info > div > p > strong]
+16:18:34.333 INFO - Executing: [is displayed: 5 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.user-info > div > p > strong]])
+16:18:34.395 INFO - Done: [is displayed: 5 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.user-info > div > p > strong]]
+16:18:35.404 INFO - Executing: [find element: By.cssSelector: section.user-info > div > p > strong])
+16:18:35.432 INFO - Done: [find element: By.cssSelector: section.user-info > div > p > strong]
+16:18:35.438 INFO - Executing: [get text: 5 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.user-info > div > p > strong]])
+16:18:35.575 INFO - Done: [get text: 5 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.user-info > div > p > strong]]
+16:18:35.581 INFO - Executing: [find elements: By.cssSelector: section.user-info > div > p:nth-child(2)])
+16:18:35.608 INFO - Done: [find elements: By.cssSelector: section.user-info > div > p:nth-child(2)]
+16:18:35.612 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.user-info > div > p:nth-child(2)]])
+16:18:35.642 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.user-info > div > p:nth-child(2)]]
+16:18:35.648 INFO - Executing: [find element: By.cssSelector: section.user-info > div > p:nth-child(2)])
+16:18:35.674 INFO - Done: [find element: By.cssSelector: section.user-info > div > p:nth-child(2)]
+16:18:35.678 INFO - Executing: [get text: 6 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.user-info > div > p:nth-child(2)]])
+16:18:35.714 INFO - Done: [get text: 6 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.user-info > div > p:nth-child(2)]]
+16:18:36.720 INFO - Executing: [find elements: By.cssSelector: div.product-info > div.product-name])
+16:18:36.746 INFO - Done: [find elements: By.cssSelector: div.product-info > div.product-name]
+16:18:36.750 INFO - Executing: [is displayed: 7 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-info > div.product-name]])
+16:18:36.780 INFO - Done: [is displayed: 7 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-info > div.product-name]]
+16:18:36.785 INFO - Executing: [find element: By.cssSelector: div.product-info > div.product-name])
+16:18:36.812 INFO - Done: [find element: By.cssSelector: div.product-info > div.product-name]
+16:18:36.816 INFO - Executing: [get text: 7 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-info > div.product-name]])
+16:18:36.851 INFO - Done: [get text: 7 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-info > div.product-name]]
+16:18:36.856 INFO - Executing: [find element: By.cssSelector: [qid='clView-bck-btn']])
+16:18:36.885 INFO - Done: [find element: By.cssSelector: [qid='clView-bck-btn']]
+16:18:36.890 INFO - Executing: [click: 8 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: [qid='clView-bck-btn']]])
+[1588243718.490][SEVERE]: Timed out receiving message from renderer: 0.100
+16:18:41.871 INFO - Done: [click: 8 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: [qid='clView-bck-btn']]]
+16:18:42.884 INFO - Executing: [find elements: By.cssSelector: .image-group .practice-image])
+16:18:42.941 INFO - Done: [find elements: By.cssSelector: .image-group .practice-image]
+16:18:42.946 INFO - Executing: [is displayed: 9 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .image-group .practice-image]])
+16:18:42.978 INFO - Done: [is displayed: 9 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .image-group .practice-image]]
+16:18:42.983 INFO - Executing: [find element: By.cssSelector: .image-group .practice-image])
+16:18:43.010 INFO - Done: [find element: By.cssSelector: .image-group .practice-image]
+16:18:43.016 INFO - Executing: [click: 9 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .image-group .practice-image]])
+[1588243724.612][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243724.714][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243724.834][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243725.006][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243725.108][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243725.210][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243725.312][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243725.414][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243725.515][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243725.617][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243725.720][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243725.822][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243725.941][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243726.044][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243726.146][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243726.260][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243726.361][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243726.463][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243726.564][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243726.665][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243726.767][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243726.869][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243726.971][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243727.072][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243727.174][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243727.766][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243728.528][SEVERE]: Timed out receiving message from renderer: 0.100
+16:18:52.619 INFO - Done: [click: 9 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .image-group .practice-image]]
+16:18:52.629 INFO - Executing: [find elements: By.cssSelector: div.product-launch-container header > a:nth-child(2)])
+16:18:52.682 INFO - Done: [find elements: By.cssSelector: div.product-launch-container header > a:nth-child(2)]
+16:18:53.188 INFO - Executing: [find elements: By.cssSelector: div.product-launch-container header > a:nth-child(2)])
+16:18:53.722 INFO - Done: [find elements: By.cssSelector: div.product-launch-container header > a:nth-child(2)]
+16:18:53.730 INFO - Executing: [is displayed: 10 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-launch-container header > a:nth-child(2)]])
+16:18:53.765 INFO - Done: [is displayed: 10 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-launch-container header > a:nth-child(2)]]
+16:18:53.772 INFO - Executing: [find element: By.cssSelector: div.product-launch-container header > a:nth-child(2)])
+16:18:53.812 INFO - Done: [find element: By.cssSelector: div.product-launch-container header > a:nth-child(2)]
+16:18:53.820 INFO - Executing: [get text: 10 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-launch-container header > a:nth-child(2)]])
+16:18:53.867 INFO - Done: [get text: 10 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-launch-container header > a:nth-child(2)]]
+16:18:54.873 INFO - Executing: [find element: By.cssSelector: [qid='cHeader-8']])
+16:18:54.902 INFO - Done: [find element: By.cssSelector: [qid='cHeader-8']]
+16:18:54.907 INFO - Executing: [click: 11 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: [qid='cHeader-8']]])
+[1588243735.772][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243736.144][SEVERE]: Timed out receiving message from renderer: 0.100
+16:18:58.067 INFO - Done: [click: 11 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: [qid='cHeader-8']]]
+16:18:59.081 INFO - Executing: [find elements: By.cssSelector: .assignment-icon-container .nemo-assignment])
+16:18:59.145 INFO - Done: [find elements: By.cssSelector: .assignment-icon-container .nemo-assignment]
+16:18:59.149 INFO - Executing: [is displayed: 12 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .assignment-icon-container .nemo-assignment]])
+16:18:59.180 INFO - Done: [is displayed: 12 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .assignment-icon-container .nemo-assignment]]
+16:18:59.186 INFO - Executing: [find element: By.cssSelector: .assignment-icon-container .nemo-assignment])
+16:18:59.213 INFO - Done: [find element: By.cssSelector: .assignment-icon-container .nemo-assignment]
+16:18:59.217 INFO - Executing: [click: 12 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .assignment-icon-container .nemo-assignment]])
+[1588243740.879][SEVERE]: Timed out receiving message from renderer: 0.100
+16:19:04.358 INFO - Done: [click: 12 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .assignment-icon-container .nemo-assignment]]
+16:19:04.365 INFO - Executing: [find elements: By.cssSelector: section.assignments-wrapper.mt-0 > div.assignments-content > a > div.d-flex.align-items-center > div.assignment-description.ml-3 > p.assignment-name.mb-1])
+16:19:04.460 INFO - Done: [find elements: By.cssSelector: section.assignments-wrapper.mt-0 > div.assignments-content > a > div.d-flex.align-items-center > div.assignment-description.ml-3 > p.assignment-name.mb-1]
+16:19:04.468 INFO - Executing: [is displayed: 13 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.assignments-wrapper.mt-0 > div.assignments-content > a > div.d-flex.align-items-center > div.assignment-description.ml-3 > p.assignment-name.mb-1]])
+16:19:04.503 INFO - Done: [is displayed: 13 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.assignments-wrapper.mt-0 > div.assignments-content > a > div.d-flex.align-items-center > div.assignment-description.ml-3 > p.assignment-name.mb-1]]
+16:19:05.516 INFO - Executing: [find element: By.cssSelector: section.assignments-wrapper.mt-0 > div.assignments-content > a > div.d-flex.align-items-center > div.assignment-description.ml-3 > p.assignment-name.mb-1])
+16:19:05.577 INFO - Done: [find element: By.cssSelector: section.assignments-wrapper.mt-0 > div.assignments-content > a > div.d-flex.align-items-center > div.assignment-description.ml-3 > p.assignment-name.mb-1]
+16:19:05.582 INFO - Executing: [get text: 13 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.assignments-wrapper.mt-0 > div.assignments-content > a > div.d-flex.align-items-center > div.assignment-description.ml-3 > p.assignment-name.mb-1]])
+16:19:05.617 INFO - Done: [get text: 13 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: section.assignments-wrapper.mt-0 > div.assignments-content > a > div.d-flex.align-items-center > div.assignment-description.ml-3 > p.assignment-name.mb-1]]
+16:19:05.666 INFO - Executing: [find element: By.cssSelector: #dropdownMenuLink])
+16:19:05.692 INFO - Done: [find element: By.cssSelector: #dropdownMenuLink]
+16:19:05.697 INFO - Executing: [click: 14 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #dropdownMenuLink]])
+16:19:05.850 INFO - Done: [click: 14 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #dropdownMenuLink]]
+16:19:05.856 INFO - Executing: [find elements: By.cssSelector: .logout button])
+16:19:05.883 INFO - Done: [find elements: By.cssSelector: .logout button]
+16:19:05.888 INFO - Executing: [is displayed: 15 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .logout button]])
+16:19:05.917 INFO - Done: [is displayed: 15 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .logout button]]
+16:19:05.923 INFO - Executing: [find element: By.cssSelector: .logout button])
+16:19:05.949 INFO - Done: [find element: By.cssSelector: .logout button]
+16:19:05.953 INFO - Executing: [click: 15 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .logout button]])
+16:19:06.063 INFO - Done: [click: 15 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .logout button]]
+16:19:06.074 INFO - Executing: [find elements: By.cssSelector: #onboarding-header-login-btn])
+16:19:06.108 INFO - Done: [find elements: By.cssSelector: #onboarding-header-login-btn]
+16:19:06.620 INFO - Executing: [find elements: By.cssSelector: #onboarding-header-login-btn])
+16:19:06.666 INFO - Done: [find elements: By.cssSelector: #onboarding-header-login-btn]
+16:19:07.176 INFO - Executing: [find elements: By.cssSelector: #onboarding-header-login-btn])
+16:19:07.216 INFO - Done: [find elements: By.cssSelector: #onboarding-header-login-btn]
+16:19:07.726 INFO - Executing: [find elements: By.cssSelector: #onboarding-header-login-btn])
+16:19:07.905 INFO - Done: [find elements: By.cssSelector: #onboarding-header-login-btn]
+16:19:08.414 INFO - Executing: [find elements: By.cssSelector: #onboarding-header-login-btn])
+[1588243748.769][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243749.097][SEVERE]: Timed out receiving message from renderer: 0.100
+16:19:12.818 INFO - Done: [find elements: By.cssSelector: #onboarding-header-login-btn]
+16:19:12.823 INFO - Executing: [find element: By.cssSelector: #onboarding-header-login-btn])
+16:19:12.854 INFO - Done: [find element: By.cssSelector: #onboarding-header-login-btn]
+16:19:12.859 INFO - Executing: [click: 16 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #onboarding-header-login-btn]])
+16:19:13.011 INFO - Done: [click: 16 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #onboarding-header-login-btn]]
+16:19:16.034 INFO - Executing: [find elements: By.cssSelector: #gigya-login-form input[name="username"]])
+16:19:16.101 INFO - Done: [find elements: By.cssSelector: #gigya-login-form input[name="username"]]
+16:19:16.108 INFO - Executing: [is displayed: 17 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="username"]]])
+16:19:16.142 INFO - Done: [is displayed: 17 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="username"]]]
+16:19:16.147 INFO - Executing: [find element: By.cssSelector: #gigya-login-form input[name="username"]])
+16:19:16.173 INFO - Done: [find element: By.cssSelector: #gigya-login-form input[name="username"]]
+16:19:16.178 INFO - Executing: [send keys: 17 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="username"]], [s, e, l, e, c, t, o, r, ., t, e, a, c, h, e, r, @, y, o, p, m, a, i, l, ., c, o, m]])
+16:19:16.497 INFO - Done: [send keys: 17 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="username"]], [s, e, l, e, c, t, o, r, ., t, e, a, c, h, e, r, @, y, o, p, m, a, i, l, ., c, o, m]]
+16:19:16.503 INFO - Executing: [find element: By.cssSelector: #gigya-login-form input[name="password"]])
+16:19:16.529 INFO - Done: [find element: By.cssSelector: #gigya-login-form input[name="password"]]
+16:19:16.534 INFO - Executing: [send keys: 19 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="password"]], [C, o, m, p, r, o, 1, 1]])
+16:19:16.706 INFO - Done: [send keys: 19 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[name="password"]], [C, o, m, p, r, o, 1, 1]]
+16:19:16.711 INFO - Executing: [find element: By.cssSelector: #gigya-login-form input[type="submit"]])
+16:19:16.737 INFO - Done: [find element: By.cssSelector: #gigya-login-form input[type="submit"]]
+16:19:16.741 INFO - Executing: [click: 20 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[type="submit"]]])
+16:19:17.038 INFO - Done: [click: 20 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #gigya-login-form input[type="submit"]]]
+16:19:17.045 INFO - Executing: [find elements: By.cssSelector: .class-info-container .class-circle])
+16:19:17.071 INFO - Done: [find elements: By.cssSelector: .class-info-container .class-circle]
+16:19:17.582 INFO - Executing: [find elements: By.cssSelector: .class-info-container .class-circle])
+16:19:17.614 INFO - Done: [find elements: By.cssSelector: .class-info-container .class-circle]
+16:19:18.119 INFO - Executing: [find elements: By.cssSelector: .class-info-container .class-circle])
+16:19:18.135 INFO - Done: [find elements: By.cssSelector: .class-info-container .class-circle]
+16:19:18.639 INFO - Executing: [find elements: By.cssSelector: .class-info-container .class-circle])
+16:19:18.661 INFO - Done: [find elements: By.cssSelector: .class-info-container .class-circle]
+16:19:19.166 INFO - Executing: [find elements: By.cssSelector: .class-info-container .class-circle])
+16:19:19.191 INFO - Done: [find elements: By.cssSelector: .class-info-container .class-circle]
+16:19:19.707 INFO - Executing: [find elements: By.cssSelector: .class-info-container .class-circle])
+16:19:19.743 INFO - Done: [find elements: By.cssSelector: .class-info-container .class-circle]
+16:19:20.254 INFO - Executing: [find elements: By.cssSelector: .class-info-container .class-circle])
+16:19:20.281 INFO - Done: [find elements: By.cssSelector: .class-info-container .class-circle]
+16:19:20.787 INFO - Executing: [find elements: By.cssSelector: .class-info-container .class-circle])
+[1588243761.616][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588243761.923][SEVERE]: Timed out receiving message from renderer: 0.100
+16:19:25.049 INFO - Done: [find elements: By.cssSelector: .class-info-container .class-circle]
+16:19:25.054 INFO - Executing: [is displayed: 21 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .class-info-container .class-circle]])
+16:19:25.475 INFO - Done: [is displayed: 21 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .class-info-container .class-circle]]
+16:19:25.483 INFO - Executing: [find element: By.cssSelector: .class-info-container .class-circle])
+16:19:25.513 INFO - Done: [find element: By.cssSelector: .class-info-container .class-circle]
+16:19:25.516 INFO - Executing: [click: 21 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .class-info-container .class-circle]])
+16:19:26.283 INFO - Done: [click: 21 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .class-info-container .class-circle]]
+16:19:26.301 INFO - Executing: [find elements: By.cssSelector: #classDropDownMenu])
+16:19:26.344 INFO - Done: [find elements: By.cssSelector: #classDropDownMenu]
+16:19:26.852 INFO - Executing: [find elements: By.cssSelector: #classDropDownMenu])
+16:19:27.034 INFO - Done: [find elements: By.cssSelector: #classDropDownMenu]
+16:19:27.540 INFO - Executing: [find elements: By.cssSelector: #classDropDownMenu])
+16:19:29.603 INFO - Done: [find elements: By.cssSelector: #classDropDownMenu]
+16:19:30.109 INFO - Executing: [find elements: By.cssSelector: #classDropDownMenu])
+16:19:30.800 INFO - Done: [find elements: By.cssSelector: #classDropDownMenu]
+16:19:30.815 INFO - Executing: [is displayed: 22 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #classDropDownMenu]])
+16:19:30.980 INFO - Done: [is displayed: 22 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #classDropDownMenu]]
+16:19:31.990 INFO - Executing: [find element: By.cssSelector: #classDropDownMenu])
+16:19:32.060 INFO - Done: [find element: By.cssSelector: #classDropDownMenu]
+16:19:32.064 INFO - Executing: [get text: 22 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #classDropDownMenu]])
+16:19:32.103 INFO - Done: [get text: 22 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #classDropDownMenu]]
+16:19:32.107 INFO - Executing: [find elements: By.cssSelector: div.class-info > div.d-flex > div.d-flex > p:first-child])
+16:19:32.132 INFO - Done: [find elements: By.cssSelector: div.class-info > div.d-flex > div.d-flex > p:first-child]
+16:19:32.136 INFO - Executing: [is displayed: 23 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.class-info > div.d-flex > div.d-flex > p:first-child]])
+16:19:32.166 INFO - Done: [is displayed: 23 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.class-info > div.d-flex > div.d-flex > p:first-child]]
+16:19:32.171 INFO - Executing: [find element: By.cssSelector: div.class-info > div.d-flex > div.d-flex > p:first-child])
+16:19:32.202 INFO - Done: [find element: By.cssSelector: div.class-info > div.d-flex > div.d-flex > p:first-child]
+16:19:32.205 INFO - Executing: [get text: 23 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.class-info > div.d-flex > div.d-flex > p:first-child]])
+16:19:32.243 INFO - Done: [get text: 23 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.class-info > div.d-flex > div.d-flex > p:first-child]]
+16:19:32.248 INFO - Executing: [find element: By.cssSelector: .class-menu .nav .nav-item:nth-of-type(3)])
+16:19:32.273 INFO - Done: [find element: By.cssSelector: .class-menu .nav .nav-item:nth-of-type(3)]
+16:19:32.277 INFO - Executing: [click: 24 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .class-menu .nav .nav-item:nth-of-type(3)]])
+16:19:32.569 INFO - Done: [click: 24 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .class-menu .nav .nav-item:nth-of-type(3)]]
+16:19:32.574 INFO - Executing: [find elements: By.cssSelector: div.product-info > div.d-flex > h2.heading2 > span.d-block])
+16:19:32.608 INFO - Done: [find elements: By.cssSelector: div.product-info > div.d-flex > h2.heading2 > span.d-block]
+16:19:32.612 INFO - Executing: [is displayed: 25 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-info > div.d-flex > h2.heading2 > span.d-block]])
+16:19:32.645 INFO - Done: [is displayed: 25 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-info > div.d-flex > h2.heading2 > span.d-block]]
+16:19:32.650 INFO - Executing: [find element: By.cssSelector: div.product-info > div.d-flex > h2.heading2 > span.d-block])
+16:19:32.676 INFO - Done: [find element: By.cssSelector: div.product-info > div.d-flex > h2.heading2 > span.d-block]
+16:19:32.680 INFO - Executing: [get text: 25 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-info > div.d-flex > h2.heading2 > span.d-block]])
+16:19:32.716 INFO - Done: [get text: 25 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: div.product-info > div.d-flex > h2.heading2 > span.d-block]]
+16:19:32.730 INFO - Executing: [find element: By.cssSelector: #dropdownMenuLink])
+16:19:32.755 INFO - Done: [find element: By.cssSelector: #dropdownMenuLink]
+16:19:32.759 INFO - Executing: [click: 26 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #dropdownMenuLink]])
+16:19:32.870 INFO - Done: [click: 26 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: #dropdownMenuLink]]
+16:19:32.879 INFO - Executing: [find elements: By.cssSelector: .logout button])
+16:19:32.908 INFO - Done: [find elements: By.cssSelector: .logout button]
+16:19:32.914 INFO - Executing: [is displayed: 27 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .logout button]])
+16:19:32.946 INFO - Done: [is displayed: 27 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .logout button]]
+16:19:32.951 INFO - Executing: [find element: By.cssSelector: .logout button])
+16:19:32.976 INFO - Done: [find element: By.cssSelector: .logout button]
+16:19:32.980 INFO - Executing: [click: 27 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .logout button]])
+16:19:33.105 INFO - Done: [click: 27 [[ChromeDriver: chrome on XP (99fb5f1f5c7c79ea2abae9fe044a805a)] -> css selector: .logout button]]
+16:19:33.112 INFO - Executing: [find elements: By.cssSelector: #onboarding-header-login-btn])
+16:19:33.129 INFO - Done: [find elements: By.cssSelector: #onboarding-header-login-btn]
+16:19:33.637 INFO - Executing: [find elements: By.cssSelector: #onboarding-header-login-btn])
+16:19:33.767 INFO - Done: [find elements: By.cssSelector: #onboarding-header-login-btn]
+16:19:34.272 INFO - Executing: [find elements: By.cssSelector: #onboarding-header-login-btn])
+16:19:34.339 INFO - Done: [find elements: By.cssSelector: #onboarding-header-login-btn]
+16:19:34.846 INFO - Executing: [find elements: By.cssSelector: #onboarding-header-login-btn])
+[1588243775.085][SEVERE]: Timed out receiving message from renderer: 0.100
+16:19:37.074 INFO - Done: [find elements: By.cssSelector: #onboarding-header-login-btn]
+16:19:37.087 INFO - Executing: [delete session: bf463493-ce47-403a-9cb4-bc28e53b9065])
+16:19:39.339 INFO - Done: [delete session: bf463493-ce47-403a-9cb4-bc28e53b9065]
